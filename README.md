@@ -36,3 +36,25 @@ Key Features:
 - Displays images of the player's Pokemon once it reaches a certain level and can evolve or if it is resting!
 - There are "gym battles" and a "boss battle" that allows the player to choose the Pokemon's move for attack
 - The player can view their Pokemon's evolution over the course of days; they can quit the game if they want to
+
+Project 6: Magic 8 Ball Generator
+Summary: Once the program initiates, the user will be displayed a "real" magic 8 ball that will tell them their fortune once the user inputs a yes-or-no question into the program.
+Key Features:
+- Displays a picture of a magic 8 ball created through ASCII text (not created by me)
+- While loops are used so that the user can keep asking the magic 8 ball questions (unless they do not want to, and they can exit the program)
+- time.sleep() is used so that the action of shaking the magic 8 ball can be displayed on screen!
+
+Project 7: 
+Summary:
+Key Features:
+- 
+
+Project 8:
+Summary:
+Key Features:
+- 
+
+Project 9:
+Summary:
+Key Features:
+- 
