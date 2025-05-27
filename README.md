@@ -1,5 +1,5 @@
 # Python-Portfolio
-This is a collection of all of the works I (Zaara) have coded from AP Computer Science Principles at Jones College Prep. Enjoy!
+This is a collection of all of the works I (Zaara) have coded from AP Computer Science Principles at Jones College Prep in the 2024-2025 school year. Enjoy!
 
 
 Project 1: Simple Calculator
@@ -44,17 +44,24 @@ Key Features:
 - While loops are used so that the user can keep asking the magic 8 ball questions (unless they do not want to, and they can exit the program)
 - time.sleep() is used so that the action of shaking the magic 8 ball can be displayed on screen!
 
-Project 7: 
-Summary:
-Key Features:
-- 
+Project 7: Stardom Adventure
+Summary: The user becomes their own popstar and goes on a journey through numerous options of their choosing, so they can become the ultimate popstar! The game acts like a Build-Your-Own-Adventure game.
+Key Features: 
+- "If-" statements are used so that the user's input of choosing an option enables a new code segment to occur
+- The user can view their popstar "stats" through certain options
+- Based on how many points a user has, that determines the level of fame and success they achieve
 
-Project 8:
-Summary:
+Project 8: Image Recommender
+Summary: Once the program initiates, the user will be displayed an image of a place around the world at random. Each image has an accompanying description so that user's understand why they should travel to these places!
 Key Features:
-- 
+- Real images (that are cited in the code) taken from online are used and displayed in the Interactive Window
+- Printed statements get displayed after delayed timing so that there's more visual appeal
+- The computer generates thoughtful descriptions of each place so that the user learns about where an image was taken
 
-Project 9:
-Summary:
+Project 9: Closet Builder
+Summary: For those who struggle to find the perfect outfit for certain occasions, this program is for you! Users can select from multiple options to build their personal digital closet and find inspiration on what clothes should make up their wardrobe.
 Key Features:
-- 
+- Real images (that are cited in the code) taken from online are used and displayed in the Interactive Window
+- User's inputs can add or remove items from their closet list
+- ASCII text (that is cited from its creator in the code) is used to boost the visual appeal of the program
+- Loops are used to assess items found within lists and either add or change nothing to them
